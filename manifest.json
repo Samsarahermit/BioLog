@@ -1,20 +1,14 @@
 {
   "name": "BioLog",
   "short_name": "BioLog",
-  "start_url": "https://Samsarahermit.github.io/BioLog/index.html",
+  "start_url": "/BioLog/index.html",
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#1a1a2e",
-  "scope": "https://Samsarahermit.github.io/BioLog/",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192", 
+      "src": "https://via.placeholder.com/192",
       "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://via.placeholder.com/512",
-      "sizes": "512x512",
       "type": "image/png"
     }
   ]
